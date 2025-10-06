@@ -27,12 +27,10 @@ A bientôt 🥳
 
 ## Contributeurs
 
-<<<<<<< HEAD
 mon prenom est dexter.
 pas de nouveau utilisateur.
-=======
 - Duvernelle Ngouzon
->>>>>>> fd37080fa33a4b71e65290ed73162bd593501717
 
 
 © < Mon entreprise > Unamur, 2024
+rentrée 2025
