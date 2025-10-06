@@ -27,7 +27,8 @@ A bientôt 🥳
 
 ## Contributeurs
 
-- Moi et moi seul pour l'instant 🤓
+mon prenom est dexter.
+pas de nouveau utilisateur.
 
 
 © < Mon entreprise > Unamur, 2024
