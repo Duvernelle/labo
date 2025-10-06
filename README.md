@@ -28,6 +28,7 @@ A bientôt 🥳
 ## Contributeurs
 
 - Duvernelle Ngouzon
+- encore moi 
 
 
 © < Mon entreprise > Unamur, 2024
