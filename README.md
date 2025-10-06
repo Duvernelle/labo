@@ -1,22 +1,17 @@
-<pre>
-  _               ____   ____          _____ _____ _______ 
- | |        /\   |  _ \ / __ \        / ____|_   _|__   __|
- | |       /  \  | |_) | |  | |______| |  __  | |    | |   
- | |      / /\ \ |  _ <| |  | |______| | |_ | | |    | |   
- | |____ / ____ \| |_) | |__| |      | |__| |_| |_   | |   
- |______/_/    \_\____/ \____/        \_____|_____|  |_|   
-</pre>
 
-# Welcome!
-Laboratoire de prise en main de Git
+# Profil
 
-Ce laboratoire ouvre plusieurs perspective à savoir:
+## A propos de moi
+Passionné par l'enseignement et la formation, je suis actuellement assistant à l'Université de Namur. Toujours prêt à relever les défis qui se présentent, je fais preuve d'ouverture d'esprit et d'un fort esprit collaboratif.
 
-* La collaboration à plusieurs sur un projet
-* La manipulation des historique des commits
-* Les pull requests
+## Mes hobbies
+- Jeux vidéos
+- Escalades
 
+## Mes coordonnées
+5000, Namur, Belgique
 
+© < tadaa.com > Unamur, 2024
 [Pour tout autre préoccupation mon IA reste disponible](https://chat.openai.com)
 
 A bientôt 🥳
