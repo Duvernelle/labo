@@ -12,9 +12,6 @@ Passionné par l'enseignement et la formation, je suis actuellement assistant à
 5000, Namur, Belgique
 
 © < tadaa.com > Unamur, 2024
-<<<<<<< HEAD
-111111
-=======
 [Pour tout autre préoccupation mon IA reste disponible](https://chat.openai.com)
 
 A bientôt 🥳
@@ -32,4 +29,3 @@ pas de nouveau utilisateur.
 
 © < Mon entreprise > Unamur, 2024
 rentrée 2025
->>>>>>> 97b66d2566a6ba7734e06be2e0628c75756e1170
